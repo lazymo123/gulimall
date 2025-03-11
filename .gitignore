@@ -23,4 +23,7 @@ buildNumber.properties
 .idea
 **/.gitignore
 **/.gitattributes
+**/HELP.md
+**/DGituser.ssh
+**/DGituser.ssh.pub
 
